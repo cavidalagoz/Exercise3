@@ -1,0 +1,25 @@
+.header {
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-color:cornflowerblue;
+}
+
+.header-image {
+    background-image: url(imgs/photographer.jpg);
+    height: 120px;
+    width: 165px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header > h1 {
+    text-align: center;
+    color: white;
+}
+
+.header > p {
+    text-align: center;
+    color: blue;
+}
